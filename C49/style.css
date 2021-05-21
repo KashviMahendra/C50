@@ -1,0 +1,9 @@
+h1 {color:brown}
+.header{background-color: blue;
+display : flex;
+justify-content: space-evenly;}
+.games {display: flex;
+justify-content: space-evenly;
+flex-wrap: wrap;}
+.item p{text-align: center;}
+.subtitle p{text-align: center;}
